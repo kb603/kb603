@@ -19,7 +19,7 @@ Thanks for stopping by!
 [![Github](./github-logo-thin-svgrepo-com.svg)](https://github.com/kb603)
 [![Mail](./email-9-svgrepo-com.svg)](mailto:kojoaddobaffour@gmail.com) 
 
-## Tech Stack:
+# Tech Stack:
 
 <div align="left">
   <a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a> 
