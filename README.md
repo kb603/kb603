@@ -7,11 +7,11 @@
 Thanks for stopping by! 
 
 # Couple of words about me:
-- 👨‍💻I'm a an IT student, specializing in Web Development. 
-- 📝I'm currently in the learning phase, eager to expand my knowledge.
+- 👨‍💻An IT student, specializing in Web Development. 
+- 📝Currently in the learning phase, eager to expand my knowledge.
 - 🛠️ I'm actively building my portfolio to showcase my skills.
 - 📚 My current focus is on mastering front-end programming languages.
-- 🚗 Fun fact: I'm a passionate car enthusiast.
+- 🏎️Fun fact: I'm a passionate car enthusiast.
  
 # Find me here:
 [![Portfolio](./portfolio-svgrepo-com.svg)]()
