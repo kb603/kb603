@@ -6,7 +6,7 @@
 
 Thanks for stopping by! 
 
-# Couple of words about me:
+<!-- # Couple of words about me:
 - 👨‍💻An IT student, specializing in Web Development. 
 - 📝Currently in the learning phase, eager to expand my knowledge.
 - 🛠️ I'm actively building my portfolio to showcase my skills.
@@ -33,4 +33,4 @@ Thanks for stopping by!
 <div align="left">
 <div>
 <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="400" height="300"/></a>
-</div> 
+</div>  -->
